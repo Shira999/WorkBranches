@@ -16,12 +16,12 @@
 1. Космопорт «Черезтерновый Кзвёздный»
 1. Дизайн-студия имени **Артемия Лебедева**
 
-'''css
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
-'''
+```
 
 
 
